@@ -23,7 +23,7 @@
 
 ### 🛠️ Tech & Tools
 
-- Languages: Python, C++
+- Languages: Python
 - ML: Scikit-learn, Pandas, Matplotlib, Seaborn
 - DL: TensorFlow (Learning), OpenCV (Basic)
 - Dev Tools: Git, GitHub, VS Code, Docker (beginner), Google Colab
