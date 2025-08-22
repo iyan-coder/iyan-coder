@@ -25,7 +25,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python  
+- **Languages:** Python, SQL 
 - **ML/DL:** Scikit-learn, TensorFlow , Pandas, NumPy, Matplotlib, Seaborn  
 - **Computer Vision:** OpenCV, YOLOv8 
 - **MLOps / Tools:** Git, GitHub, Docker, MLflow, Google Colab, VS Code, dvc, bentoml 
