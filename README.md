@@ -12,9 +12,9 @@
   - Machine Learning & Deep Learning 
   - Computer Vision & TinyML for embedded systems
 - ✅ Highlight Projects:
-  - [🎓 Learnlytics – AI-Powered Academic Performance Platform](https://github.com/iyan-code/Learnlytics-AI-Powered-Academic-Performance-Platform)  
+  - [🎓 Learnlytics – AI-Powered Academic Performance Platform](https://github.com/iyan-coder/Learnlytics-AI-Powered-Academic-Performance-Platform)  
     *An end-to-end ML/DL system predicting student academic outcomes with explainability and deployment-ready pipelines.*
-  - [🦺 SafeSight – AI Assistant for PPE & Workplace Safety](https://github.com/iyan-code/SafeSight-AI-Assistant)  
+  - [🦺 SafeSight – AI Assistant for PPE & Workplace Safety](https://github.com/iyan-coder/SafeSight-AI-Assistant)  
     *Computer Vision + NLP-powered assistant for real-time PPE detection, compliance reasoning, and safety insights.*
   - [🛡️ Intelligent Phishing Detection System](https://github.com/iyan-coder/Intelligent-Phishing-Detection-System)  
     *ML-powered system for phishing website detection with experiment tracking, EDA, and robust evaluation.*
