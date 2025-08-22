@@ -1,55 +1,56 @@
-
 <h1 align="center">Hi, I'm Gabriel Adebayo 👋</h1>
 
 <p align="center">
-  🎓 Mechatronics Engineering Student | 🤖 ML & DL Enthusiast | 🚀 Passionate About AI for Real-World Impact
+  🎓 Mechatronics Engineering Student | 🤖 Aspiring ML Engineer | 🚀 AI for Real-World Impact
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🧠 Currently building skills in:
-  - Machine Learning Algorithms
-  - Deep Learning with TensorFlow (Bootcamp in progress)
-- ✅ Worked on:
-  - [🎓 Student Performance Prediction](https://github.com/iyan-coder/StudentPerformanceIndicator)
-  - 🛡️ Network Security ML (EDA + early model work)
-- 📊 Practiced EDA and model training using real-world datasets
-- 🔭 **Future Projects**:
-  - Smart Assistive Glasses using CV + Raspberry Pi (starting after TF Bootcamp)
+- 🧠 Currently learning & building in:
+  - Machine Learning & Deep Learning (TensorFlow Bootcamp in progress)
+  - Computer Vision & TinyML for embedded systems
+- ✅ Highlight Projects:
+  - [🎓 Learnlytics – AI-Powered Academic Performance Platform](https://github.com/iyan-code/Learnlytics-AI-Powered-Academic-Performance-Platform)  
+    *An end-to-end ML/DL system predicting student academic outcomes with explainability and deployment-ready pipelines.*
+  - [🦺 SafeSight – AI Assistant for PPE & Workplace Safety](https://github.com/iyan-code/SafeSight-AI-Assistant)  
+    *Computer Vision + NLP-powered assistant for real-time PPE detection, compliance reasoning, and safety insights.*
+  - [🛡️ Intelligent Phishing Detection System](https://github.com/iyan-coder/Intelligent-Phishing-Detection-System)  
+    *ML-powered system for phishing website detection with experiment tracking, EDA, and robust evaluation.*
+
+- 🔭 **Upcoming Build**: Smart Assistive Glasses with Raspberry Pi, CV & OCR for accessibility.
 
 ---
 
-### 🛠️ Tech & Tools
+### 🛠️ Tech Stack
 
-- Languages: Python
-- ML: Scikit-learn, Pandas, Matplotlib, Seaborn
-- DL: TensorFlow (Learning), OpenCV (Basic)
-- Dev Tools: Git, GitHub, VS Code, Docker (beginner), Google Colab
-
----
-
-### 🚀 What I’m Focusing on
-
-- Finishing TensorFlow Bootcamp (by August)
-- Building End-to-End Deep Learning Projects
-- Improving Git, Docker, and MLOps skills
-- Preparing for Smart Glasses AI build
+- **Languages:** Python  
+- **ML/DL:** Scikit-learn, TensorFlow (learning), Pandas, NumPy, Matplotlib, Seaborn  
+- **Computer Vision:** OpenCV, YOLOv8 (beginner)  
+- **MLOps / Tools:** Git, GitHub, Docker (beginner), MLflow (learning), Google Colab, VS Code  
 
 ---
 
-### 🤝 Looking to Collaborate On
+### 🚀 Current Focus
 
-- Machine Learning or Deep Learning side projects
-- Research/Academic work involving AI
-- Real-world problem-solving with code
-
-If you're working on something interesting, feel free to reach out!
+- Completing **TensorFlow Deep Learning Bootcamp** (by August 2025)  
+- Building **end-to-end ML/DL projects with deployment**  
+- Growing expertise in **MLOps** (Docker, GitHub Actions, AWS, MLflow)  
+- Starting development on **Smart Glasses AI**  
 
 ---
 
-### 💬 Quote I Live By
+### 🤝 Collaboration
+
+I’m open to collaborating on:
+- ML/DL research & applied projects
+- Computer Vision or NLP-based applications
+- End-to-End ML deployments with real-world impact
+
+---
+
+### 💡 Quote I Live By
 
 > *"The best way to learn is to build something you're not yet qualified to build."*
 
@@ -57,20 +58,22 @@ If you're working on something interesting, feel free to reach out!
 
 ### 🎉 Fun Fact
 
-> I once spent a whole weekend debugging a pipeline error — only to realize it was a typo in the folder name. Still worth it, because I learned Docker that night! 😅
+> I once spent a whole weekend debugging a pipeline error — only to realize it was a typo in the folder name.  
+> Lesson learned: *Check the basics first!* 😅
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect With Me
 
-- [💼 LinkedIn](https://www.linkedin.com/in/gabriel-adebayo-2a0ba2281/)
-- ✉️ iyanuoluwaadebayo04@gmail.com
+- [💼 LinkedIn](https://www.linkedin.com/in/gabriel-adebayo-2a0ba2281/)  
+- ✉️ iyanuoluwaadebayo04@gmail.com  
 
 ---
 
 ### 📊 GitHub Stats
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyan-coder&show_icons=true&theme=tokyonight)
+
 
 <!--
 **iyan-coder/iyan-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
