@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gabriel Adebayo 👋</h1>
 
 <p align="center">
-  🎓 Mechatronics Engineering Student | 🤖 Aspiring ML Engineer | 🚀 AI for Real-World Impact
+  🎓 Mechatronics Engineering Student | 🤖 AI/ML Engineer | 🚀 AI for Real-World Impact
 </p>
 
 ---
