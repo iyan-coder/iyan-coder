@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🧠 Currently learning & building in:
-  - Machine Learning & Deep Learning (TensorFlow Bootcamp in progress)
+  - Machine Learning & Deep Learning 
   - Computer Vision & TinyML for embedded systems
 - ✅ Highlight Projects:
   - [🎓 Learnlytics – AI-Powered Academic Performance Platform](https://github.com/iyan-code/Learnlytics-AI-Powered-Academic-Performance-Platform)  
@@ -26,15 +26,15 @@
 ### 🛠️ Tech Stack
 
 - **Languages:** Python  
-- **ML/DL:** Scikit-learn, TensorFlow (learning), Pandas, NumPy, Matplotlib, Seaborn  
-- **Computer Vision:** OpenCV, YOLOv8 (beginner)  
-- **MLOps / Tools:** Git, GitHub, Docker (beginner), MLflow (learning), Google Colab, VS Code  
+- **ML/DL:** Scikit-learn, TensorFlow , Pandas, NumPy, Matplotlib, Seaborn  
+- **Computer Vision:** OpenCV, YOLOv8 
+- **MLOps / Tools:** Git, GitHub, Docker, MLflow, Google Colab, VS Code, dvc, bentoml 
 
 ---
 
 ### 🚀 Current Focus
 
-- Completing **TensorFlow Deep Learning Bootcamp** (by August 2025)  
+  
 - Building **end-to-end ML/DL projects with deployment**  
 - Growing expertise in **MLOps** (Docker, GitHub Actions, AWS, MLflow)  
 - Starting development on **Smart Glasses AI**  
